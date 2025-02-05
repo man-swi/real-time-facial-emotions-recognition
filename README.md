@@ -49,7 +49,7 @@ The project uses the FER-2013 dataset which consists of 35,887 grayscale face im
 You can download the original FER-2013 dataset from Kaggle:
 [Kaggle - Challenges in Representation Learning: Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
-![Image](https://github.com/user-attachments/assets/12f45cc0-6fe2-41f5-affa-08c930b33775)
+![Image](https://github.com/user-attachments/assets/cea915ec-fc61-4431-85a4-a5ada582fb69)
 
 Note: Ensure you accept the competition rules on Kaggle to access the dataset.
 
