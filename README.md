@@ -109,7 +109,7 @@ Note: Make sure your webcam is connected and accessible by OpenCV.
 
 Below is an example screenshot of the real-time emotion detection in action:
 
-![Real-time Emotion Detection](![Image](https://github.com/user-attachments/assets/f8638926-adb6-4db3-ada8-f8a3d6ffb0af))
+![Real-time Emotion Detection](![Image](https://github.com/user-attachments/assets/213b154e-1ef3-4bc8-ad67-783c6105f526))
 
 (Replace the above URL with the actual link to your demo image.)
 
