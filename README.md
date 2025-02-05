@@ -3,7 +3,6 @@
 Below is a live demonstration of the project in action. The interface shows real-time emotion detection using a webcam, where a CNN model (trained on the FER-2013 dataset) identifies facial expressions and annotates them on the video feed.
 
 ![Real-time Emotion Detection](https://github.com/user-attachments/assets/213b154e-1ef3-4bc8-ad67-783c6105f526)
-*(Replace the above URL with the actual link to your demo image.)*
 
 ---
 
